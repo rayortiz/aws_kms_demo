@@ -1,0 +1,8 @@
+{
+  "AWS": {
+    "AccessKey": "<ENTER_YOUR_ACCESS_KEY",
+    "SecretKey": "<ENTER_YOUR_SECRET>",
+    "Region": "<REGION>",
+    "Key": "<ENTER_YOUR_CMK>"
+  }
+}
